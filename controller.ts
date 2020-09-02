@@ -81,25 +81,3 @@ export class Routers {
         })
     }
 }
-
-
-
-
-
-// {
-//     "address": {
-//         "building": "x",
-//         "coord": "x",
-//         "street": "x",
-//         "zipcode": "x"
-//     },
-//     "borough": "x",
-//     "cuisine": "x",
-//     "grades":[{
-//                 "date": "x",
-//                 "grade": "A",
-//                 "score": 1
-//              }],
-//     "name": "x",
-//     "restaurant_id": "x"
-// }
