@@ -22,7 +22,7 @@
         "building": "123",
         "coord": [10, 20],
         "street": "Nome da rua",
-        "zipcode": "Código postal"
+        "zipcode": "111222333"
     },
     "borough": "Nome do distrito",
     "cuisine": "Tipo de cozinha",
