@@ -3,7 +3,8 @@
 ##### Instale o Banco de dados MongoDB.
 ##### Crie uma base de dados chamada "DatasetRestaurants" com uma collection chamada "restaurants".
 ##### Importe o arquivo "restaurants.json" na collection "restaurants".
-##### Compile os arquivos TypeScript para JavaScript (por padrão os arquivos ficarão no diretório "/dist").
+##### Execute o comando "npm install" para instalar as dependências do projeto.
+##### Compile os arquivos TypeScript para JavaScript com o comando "tsc" (por padrão os arquivos ficarão no diretório "/dist").
 ##### Execute o arquivo "main.js" que se encontra dentro do diretório "/dist".
 ##### A API estará disponivel no endereço "http://localhost:3000/".
 
